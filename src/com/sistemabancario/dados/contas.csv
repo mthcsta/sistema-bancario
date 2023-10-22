@@ -1,0 +1,4 @@
+"tipo de conta", titular, banco, "numero da conta", saldo, senha, "taxas mensais", rendimento
+poupança, 12312312312, 156, 1, 60.59, 123123, 0, 0.05
+corrente, 12121212121, 156, 2, 125.15, 151515, 5.00, 0
+poupança, 123123, 156, 3, 100.00, 151615, 0, 5
